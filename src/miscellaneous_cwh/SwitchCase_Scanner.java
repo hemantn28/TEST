@@ -13,10 +13,10 @@ public class SwitchCase_Scanner {
                 break;
             case 23:
                 System.out.println("u r going to get a job");
-                break;
+               break;
             case 60:
                 System.out.println("u r going to get retired");
-                break;
+               break;
             default:
                 System.out.println("enjoy ur life");
 

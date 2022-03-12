@@ -10,6 +10,7 @@ public class Programmiz {
         int number= sc.nextInt();
 
         System.out.println("You entered: "+number);*/
+
         //write a java programme to add two integers
        /* Scanner sc=new Scanner(System.in);
         System.out.print("enter num1: ");

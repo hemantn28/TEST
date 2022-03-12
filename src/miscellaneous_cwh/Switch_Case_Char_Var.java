@@ -16,7 +16,7 @@ public class Switch_Case_Char_Var {
                 System.out.println("u r going to get retired");
             break;
             default:
-                System.out.println("emjoy ur life");
+                System.out.println("enjoy ur life");
 
         }
 
