@@ -13,7 +13,8 @@ class School{
     public void getName(){
         System.out.println(this.name);
     }
-    public void getType(){
+    public void
+    getType(){
         System.out.println(this.type);
     }
     public void getAge(){
