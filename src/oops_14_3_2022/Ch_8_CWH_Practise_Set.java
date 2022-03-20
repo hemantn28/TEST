@@ -1,7 +1,7 @@
 package oops_14_3_2022;
 
 class Engineer{
-    /*Create a class Professional with following properties and methods.
+    /*Q.1. Create a class Professional with following properties and methods.
 
     Salary(property)(int)
     getSalary(method returning int)
@@ -27,7 +27,7 @@ class Engineer{
         return salary;
     }
 }
-//Create a class cellphone with methods to print "ringing..." , "vibrating..."  etc.
+//Q.2.Create a class cellphone with methods to print "ringing..." , "vibrating..."  etc.
 
     class Cellphone{
     String color;
@@ -43,11 +43,13 @@ class Engineer{
         }
     }
 
-    //Create a class square with a method to initialize its side, calculating area and perimeter etc.
+    //Q.3.Create a class square with a method to initialize its side, calculating area and perimeter etc.
     class Square{
     String name;
 
     }
+
+
 
 public class Ch_8_CWH_Practise_Set {
 
@@ -68,6 +70,7 @@ public class Ch_8_CWH_Practise_Set {
         cp1.price=15000;
         cp1.ringing();
         cp1.vibrating();
+
 
     }
 }

@@ -3,6 +3,8 @@ package oops_15_3_2022;
 public class TommyVecetti {
     //Create a class Tommy Vecetti for Rockstar games capable of hitting(print hitting), running and firing etc.
 
+
+
     public void hit(){
         System.out.println("hitting the target");
     }
